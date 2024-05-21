@@ -16,19 +16,45 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Analysing the Gender-based Violence Landscape in Kenya
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To understand the causes of gender vulnerabilities in Kenya and to determine hotspots and trends of gender-based violence (GBV) incidents.
+**Goal:** To understand contributing factors to gender vulnerability and to identify hotspots and trends in gender-based violence (GBV) incidents.
 
 **Description:** The project focused on analyzing a dataset of GBV cases in Kenya from 2017 to 2019. The dataset included the reported case ID, the victim's demographic, geographical areas, reporting details, and other relevant information. The project involved extracting the data, transforming it and loading it into Power BI. Then descriptive data analysis was performed to provide insights into the following topics:
 - Pinpoint geographical areas and temporal patterns where GBV incidents are more prevalent.
 - Analyse the correlation between reported cases and victims' age and gender.
-- Assess the effectiveness of existing programs and allocation of resources.
+- Assess the effectiveness of existing prevention programs and allocation of resources.
 
-**Skills:** Data cleaning, data analysis, data visualization, and data storytelling.
+**Skills:** Data cleaning, data analysis, data visualization, data storytelling.
 
 **Technology:** Power BI, Excel.
 
-**Results:** Using Power BI functions the analysis revealed that people in the age group [...] and areas within the Kibera informal settlements are the most vulnerable to GBV. In addition, [...]. 
+**Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
+
+### Comparison of Muscle Pain Relief Medications in the Hong Kong market
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+
+**Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
+
+**Description:** The data used in this project was consolidated through multiple datasets on Kaggle. These datasets contained sales of available medications, price ranges, customer ratings and reviews, reported side effects, and other relevant information. The following steps were performed to prepare the data: data sourcing, cleansing, and pre-processing. Then, prescriptive and predictive analytics, and data modelling techniques such as Monte-Carlo simulation were leveraged for success prediction. 
+
+**Skills:** Data cleaning, data analysis, data modelling, data visualization.
+
+**Technology:** Python.
+
+**Results:** Findings from generated models suggested that women are the primary consumers and appropriate pricing is the most significant factor impacting sales in the pain relief market. In addition, clear communication about the list of used ingredients, potential side effects and expected benefits is important to experience product success. 
+
+### Customer Churn Rate Analysis of an American Telecommunication Company
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+
+**Goal:** To determine factors contributing to customer churn rate and predict future churn behaviour.
+
+**Description:** 
+
+**Skills:** Data cleaning, data analysis, data modelling, data visualization, basic web building.
+
+**Technology:** R
+
+**Results:** 
 
 ## Contact Details
 - LinkedIn:
-- Email: 
+- Email: thudo0311@gmail.com 
