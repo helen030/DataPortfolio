@@ -9,8 +9,8 @@ This repository serves to showcase my skills as a platform to share my projects 
 <br>
 
 ## Education
-Bachelor of Commerce (Business Analytics) / Bachelor of Information Sytems
-**The University of New South Wales (UNSW)**
+**Bachelor of Commerce (Business Analytics) / Bachelor of Information Sytems
+**The University of New South Wales (UNSW)
 
 ## Data Projects
 **COMM3501**
