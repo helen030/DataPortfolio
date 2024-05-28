@@ -3,7 +3,7 @@
 ## About
 Hi, I'm Thu! I am a final year student doing a Bachelor of Commerce and a Bachelor of Information Systems at The University of New South Wales, with a major in Business Analytics. I have experience in [...]. I recently completed an internship at Aurecon Sydney as an Asset Management and Performance Consulting intern in April 2024.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 ## Education
 Bachelor of Commerce (Business Analytics) / Bachelor of Information Sytems
@@ -23,7 +23,7 @@ In this section, I will list data analytics projects briefly describing the tech
 - Analyse the correlation between reported cases and victims' age and gender.
 - Assess the effectiveness of existing prevention programs and allocation of resources.
 
-**Skills:** Data cleaning, data analysis, data visualization, data storytelling.
+**Technical Skills:** Data cleaning, data analysis, data visualization, data storytelling.
 
 **Technology:** Power BI, Excel.
 
@@ -36,7 +36,7 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Description:** The data used in this project was consolidated through multiple datasets on Kaggle. These datasets contained sales of available medications, price ranges, customer ratings and reviews, reported side effects, and other relevant information. The following steps were performed to prepare the data: data sourcing, cleansing, and pre-processing. Then, prescriptive and predictive analytics, and data modelling techniques such as Monte-Carlo simulation were leveraged for success prediction. 
 
-**Skills:** Data cleaning, data analysis, data modelling, data visualization.
+**Technical Skills:** Data cleaning, data analysis, data modelling, data visualization.
 
 **Technology:** Python.
 
@@ -45,16 +45,16 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Customer Churn Rate Analysis of an American Telecommunication Company
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To determine factors contributing to customer churn rate and predict future churn behaviour.
+**Goal:** To understand customer behaviour and to accurately predict customer churn.
 
-**Description:** 
+**Description:** The client in this project is a major U.S. wireless telecommunication company that provides cellular telephone service. The data provides details of 30,000 customers in the training dataset, and 10,000 customers in the evaluation dataset. There is information on 44 attributes describing the customer care service details, customer demography and personal details, etc. Extra analysis related to churn prediction based on the Kaggel datasets was used as an example for this project.
 
-**Skills:** Data cleaning, data analysis, data modelling, data visualization, basic web building.
+**Technical Skills:** Data manipulation, data cleaning, descriptive data analysis, statistical modelling, web app development and hosting.
 
 **Technology:** R
 
 **Results:** 
 
 ## Contact Details
-- LinkedIn:
+- Linkedin:
 - Email: thudo0311@gmail.com 
