@@ -14,7 +14,7 @@ The University of New South Wales, Sydney (2021 - Expected 2025)
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysing the Gender-based Violence Landscape in Kenya
-**Code:** https://github.com/helen030/GBV-project/blob/d532a57bd39dcc124977fe534b95bd7ebd47988c/README.md
+**Code:** https://github.com/helen030/GBVProject/blob/794a2077d183312d4d5ac57f1058e59d5f734349/README.md
 
 **Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
