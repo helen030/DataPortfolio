@@ -1,9 +1,9 @@
 # Minh Thu Do - Data Analysis Portfolio
 
 ## About
-Hi, I'm Thu! I am a final year student doing a Bachelor of Commerce and a Bachelor of Information Systems at The University of New South Wales, with a major in Business Analytics. I have experience in [...]. I recently completed an internship at Aurecon Sydney as an Asset Management and Performance Consulting intern in April 2024.
+Hi, I'm Minh Thu and you can call me Helen! I am a final year student doing a Bachelor of Commerce and a Bachelor of Information Systems at The University of New South Wales, majoring in Business Analytics. During my studies, I have gained experience in using various tools and technologies to collect, transform, and analyse data to provide data-driven insights to businesses. I am proficient in R, Oracle SQL, Python, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as data visualisation, data modelling, and dashboard building. I recently completed an internship at Aurecon Sydney as an Asset Management and Performance Consulting intern in May 2024.
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
+In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links to dashboards, reports, and coding components that demonstrate my ability to extract valuable insights from complex datasets and present them in a visually appealing way, making it easy for decision-makers to understand and take action.
 
 ## Education
 Bachelor of Commerce (Business Analytics) / Bachelor of Information Sytems
@@ -16,21 +16,23 @@ In this section, I will list data analytics projects briefly describing the tech
 ### Analysing the Gender-based Violence Landscape in Kenya
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
-**Goal:** To understand contributing factors to gender vulnerability and to identify hotspots and trends in gender-based violence (GBV) incidents.
+**Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
-**Description:** The project focused on analyzing a dataset of GBV cases in Kenya from 2017 to 2019. The dataset included the reported case ID, the victim's demographic, geographical areas, reporting details, and other relevant information. The project involved extracting the data, transforming it and loading it into Power BI. Then descriptive data analysis was performed to provide insights into the following topics:
+**Description:** The project focused on analysing a dataset of GBV cases in Kenya from 2017 to 2019. The dataset included the reported case ID, the victim's demographic, geographical areas, reporting details, and other relevant information. The project involved extracting the data, transforming it and loading it into Power BI. Then descriptive data analysis was performed to provide insights into the following topics:
 - Pinpoint geographical areas and temporal patterns where GBV incidents are more prevalent.
 - Analyse the correlation between reported cases and victims' age and gender.
 - Assess the effectiveness of existing prevention programs and allocation of resources.
 
-**Technical Skills:** Data cleaning, data analysis, data visualization, data storytelling.
+**Technical Skills:** Data cleaning, data analysis, data visualisation, data storytelling, and dashboard building.
 
 **Technology:** Power BI, Excel.
 
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
 ### Comparison of Muscle Pain Relief Medications in the Hong Kong market
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
+
+https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/ReportSectione90a9dd27c477665e969?experience=power-bi&bookmarkGuid=Bookmark83fa3b35183e0e2b2b26
 
 **Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
 
