@@ -14,7 +14,7 @@ The University of New South Wales, Sydney (2021 - Expected 2025)
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysing the Gender-based Violence Landscape in Kenya
-**Code:** https://github.com/helen030/GBVProject/blob/794a2077d183312d4d5ac57f1058e59d5f734349/README.md
+**Link:** https://github.com/helen030/GBVProject/blob/794a2077d183312d4d5ac57f1058e59d5f734349/README.md
 
 **Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
@@ -30,7 +30,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
 ### Comparison of Muscle Pain Relief Medications in the Hong Kong market
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
+**Link:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
 
 https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/ReportSectione90a9dd27c477665e969?experience=power-bi&bookmarkGuid=Bookmark83fa3b35183e0e2b2b26
 
@@ -45,7 +45,7 @@ https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/R
 **Results:** Findings from generated models suggested that women are the primary consumers and appropriate pricing is the most significant factor impacting sales in the pain relief market. In addition, clear communication about the list of used ingredients, potential side effects and expected benefits is important to experience product success. 
 
 ### Customer Churn Rate Analysis of an American Telecommunication Company
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Link:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To understand customer behaviour and to accurately predict customer churn.
 
