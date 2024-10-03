@@ -18,7 +18,7 @@ The University of New South Wales, Sydney (Sep 2021 - Expected May 2025)
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysing the Gender-based Violence Landscape in Kenya
-**Link:** Kenya's GBV Dashboard.md
+**Link:** [Kenya's GBV Dashboard.md](https://github.com/helen030/GBVProject/blob/3a463cd875be8ce0dcfc836788d5e63398d624d8/Kenya's%20GBV%20Dashboard.md)
 
 **Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
@@ -28,14 +28,14 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
-### Analysis of Muscle Pain Relief Medications in the Hong Kong market
-**Link:** Analysing Hong Kong Pain Relief Medication Market.ipynb
+### Analysis of Muscle Pain Relief Medications in the Hong Kong Market
+**Link:** [Analysing Hong Kong Pain Relief Medication Market.ipynb](https://github.com/helen030/GBVProject/blob/3a463cd875be8ce0dcfc836788d5e63398d624d8/Analysing%20Hong%20Kong%20Pain%20Relief%20Medication%20Market.ipynb)
 
 **Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
 
 **Description:** The data used in this project was consolidated through multiple datasets on Kaggle. These datasets contained sales of available medications, price ranges, customer ratings and reviews, reported side effects, and other relevant information. The following steps were performed to prepare the data: data sourcing, cleansing, and pre-processing. Then, prescriptive and predictive analytics, and data modelling techniques such as Monte-Carlo simulation were leveraged for success prediction. 
 
-**Technical Skills:** Data cleaning, data analysis, data modelling, data visualization.
+**Technical Skills:** Data cleaning, data analysis, data modelling, and data visualization.
 
 **Technology:** Python.
 
