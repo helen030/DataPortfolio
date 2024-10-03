@@ -18,7 +18,7 @@ The University of New South Wales, Sydney (Sep 2021 - Expected May 2025)
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysing the Gender-based Violence Landscape in Kenya
-**Link:** [GBVDashboard.md](https://github.com/helen030/GBVProject/blob/52d972f1831632604fbf1d128ab1fae0c6619491/README.md)
+**Link:** Kenya's GBV Dashboard.md
 
 **Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
@@ -29,7 +29,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
 ### Analysis of Muscle Pain Relief Medications in the Hong Kong market
-**Link:** [Analysing HK's Pain Relief Drugs Market.ipynb](https://github.com/helen030/GBVProject/blob/e7f131f700f558e5861597118a5d99165c94ef0c/Hong%20Kong%20Data%20Project.ipynb)
+**Link:** Analysing Hong Kong Pain Relief Medication Market.ipynb
 
 **Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
 
