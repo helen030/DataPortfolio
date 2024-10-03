@@ -40,7 +40,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Findings from generated models suggested that women are the primary consumers and appropriate pricing is the most significant factor impacting sales in the pain relief market. In addition, clear communication about the list of used ingredients, potential side effects and expected benefits is important to experience product success. 
 
 ### Customer Churn Rate Analysis of an American Telecommunication Company
-**Link:** 
+**Link:** [Predicting Customer Churn Rate.R](https://github.com/helen030/DataProject/blob/b0cab196cb61f1f512639deedddc2af17ebcbbd7/Customer%20Churn%20Rate%20Prediction%20Model.R)
 
 **Goal:** To understand customer behaviour and to accurately predict customer churn.
 
