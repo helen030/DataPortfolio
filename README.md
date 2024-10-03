@@ -5,10 +5,14 @@ Hi, I'm Minh Thu and you can call me Helen! I am a final year student doing a Ba
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links to dashboards, reports, and coding components that demonstrate my ability to extract valuable insights from complex datasets and present them in a visually appealing way, making it easy for decision-makers to understand and take action.
 
+## Contact Details
+- Linkedin: https://www.linkedin.com/in/minhthuhelendo/
+- Email: thudo0311@gmail.com
+
 ## Education
 Bachelor of Commerce (Business Analytics) / Bachelor of Information Sytems
 
-The University of New South Wales, Sydney (2021 - Expected 2025)
+The University of New South Wales, Sydney (Sep 2021 - Expected May 2025)
 
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -18,11 +22,6 @@ In this section, I will list data analytics projects briefly describing the tech
 
 **Goal:** To understand factors contributing to gender-based violence (GBV) incidents in Kenya and to recommend a set of actions to combat the situations based on these findings.
 
-**Description:** The project focused on analysing a dataset of GBV cases in Kenya from 2017 to 2019. The dataset included the reported case ID, the victim's demographic, geographical areas, reporting details, and other relevant information. The project involved extracting the data, transforming it and loading it into Power BI. Then descriptive data analysis was performed to provide insights into the following topics:
-- Pinpoint geographical areas and temporal patterns where GBV incidents are more prevalent.
-- Analyse the correlation between reported cases and victims' age and gender.
-- Assess the effectiveness of existing prevention programs and allocation of resources.
-
 **Technical Skills:** Data cleaning, data analysis, data visualisation, data storytelling, and dashboard building.
 
 **Technology:** Power BI, Excel.
@@ -30,9 +29,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
 ### Comparison of Muscle Pain Relief Medications in the Hong Kong market
-**Link:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`]
-
-https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/ReportSectione90a9dd27c477665e969?experience=power-bi&bookmarkGuid=Bookmark83fa3b35183e0e2b2b26
+**Link:** 
 
 **Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
 
@@ -45,7 +42,7 @@ https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/R
 **Results:** Findings from generated models suggested that women are the primary consumers and appropriate pricing is the most significant factor impacting sales in the pain relief market. In addition, clear communication about the list of used ingredients, potential side effects and expected benefits is important to experience product success. 
 
 ### Customer Churn Rate Analysis of an American Telecommunication Company
-**Link:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Link:** 
 
 **Goal:** To understand customer behaviour and to accurately predict customer churn.
 
@@ -56,7 +53,3 @@ https://app.powerbi.com/groups/me/reports/49d2855c-8a61-40f8-9d9a-d3f427f68b62/R
 **Technology:** R
 
 **Results:** 
-
-## Contact Details
-- Linkedin:
-- Email: thudo0311@gmail.com 
