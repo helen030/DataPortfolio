@@ -29,7 +29,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** Using Power BI functions the analysis revealed that age and location are major contributing factors causing increases in vulnerability for GBV victims. In addition, GBV incidents spiked on weekdays, particularly Mondays, and a significant proportion of them involved intimate partners and occurred within households behind closed doors.
 
 ### Analysis of Muscle Pain Relief Medications in the Hong Kong market
-**Link:** https://github.com/helen030/GBVProject/blob/e7f131f700f558e5861597118a5d99165c94ef0c/Hong%20Kong%20Data%20Project.ipynb
+**Link:** [Analysing HK's Pain Relief Drugs Market.ipynb](https://github.com/helen030/GBVProject/blob/e7f131f700f558e5861597118a5d99165c94ef0c/Hong%20Kong%20Data%20Project.ipynb)
 
 **Goal:** To understand factors that affect the sales performance of pain relief drugs in the market and help our client Poon differentiate their Joint and Muscle Pain Gel products.
 
