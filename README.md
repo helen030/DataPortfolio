@@ -3,8 +3,6 @@
 ## About
 Hi, I'm Minh Thu and you can call me Helen! I am a final year student doing a Bachelor of Commerce and a Bachelor of Information Systems at The University of New South Wales, majoring in Business Analytics. During my studies, I have gained experience using various tools and technologies to collect, transform, and analyse data to provide data-driven insights to businesses. I am proficient in R, Oracle SQL, Python, Excel, Power BI, and Tableau. I have a solid understanding of data analytics techniques such as data visualisation, data modelling, and dashboard building. I recently completed an internship at Aurecon Sydney as an Asset Management and Performance Consulting intern in May 2024.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links to dashboards, reports, and coding components that demonstrate my ability to extract valuable insights from complex datasets and present them in a visually appealing way, making it easy for decision-makers to understand and take action.
-
 ## Contact Details
 - Linkedin: https://www.linkedin.com/in/minhthuhelendo/
 - Email: thudo0311@gmail.com
